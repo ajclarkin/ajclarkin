@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ajclarkin/ajclarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +18,5 @@ I'm a consultant in Intensive Care and Anaesthesia, not a programmer - so don't 
 Interests are in critical care computing, data science, home automation, and renewable technologies.
 
 The main technologies I use:
- - :computer: Python, PHP, R
+ - :computer: Python, R, PHP
  - :open_file_folder: SQL Server, MySQL, SQlite
