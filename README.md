@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a consultant in Intensive Care and Anaesthesia, not a programmer - so don't judge me on the quality of my code. I'm interested in using computers and data to optimise the routine and improve patient care.
+
+Interests are in critical care computing, data science, home automation, and renewable technologies.
+
+The main technologies I use:
+ - :computer: Python, PHP, R
+ - :open_file_folder: SQL Server, MySQL, SQlite
